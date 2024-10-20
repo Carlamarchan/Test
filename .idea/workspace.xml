@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd1d8158-32d7-4273-9734-b7dfcfaff0a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/crud/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/CrudApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/CrudApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/ProductCategory/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/ProductCategory/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/ProductCategory/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/ProductCategory/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/ProductCategory/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/ProductCategory/CategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/ProductCategory/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/ProductCategory/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/product/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/product/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/product/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/product/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/product/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/example/crud/product/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/test/java/com/example/crud/product/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/test/java/com/example/crud/CrudApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="cd1d8158-32d7-4273-9734-b7dfcfaff0a8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,12 +64,13 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/anthonny/IdeaProjects/Test",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/src/main/resources" />
       <recent name="$PROJECT_DIR$/.idea/src" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
