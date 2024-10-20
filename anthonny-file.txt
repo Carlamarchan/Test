@@ -1,5 +1,4 @@
-Hola
 Cómo estás?
-Todo bien
+Todo bien o que hace
 Qué tal?
 Nueva Funcionalidad1
